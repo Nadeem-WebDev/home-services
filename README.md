@@ -21,8 +21,8 @@ This Project uses MIT license.
 
 #### Login Info
 - Admin:
-  - Mobile No.: 7070808080
-  - Password  : admin123
+  - Mobile No.: 8972469383
+  - Password  : admin0712
 - Providers:
     - No Providers are registered by default use register screen to create
       some.

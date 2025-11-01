@@ -10,7 +10,7 @@ if (isset($_POST['login'])) {
     $contact = $input['contact'];
     $password = $input['password'];
 
-    if ($contact == "7070808080" && $password == "admin123") {
+    if ($contact == "8972469383" && $password == "admin0712") {
         $s = new stdClass();
         $s->name = "admin";
         $_SESSION['user'] = $s;
